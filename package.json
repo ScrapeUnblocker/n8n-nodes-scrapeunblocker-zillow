@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-scrapeunblocker-zillow",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "n8n community node for the Zillow Scraper Apify Actor by ScrapeUnblocker: Zillow listings with price, beds, baths, living area, address and details as JSON",
 	"license": "MIT",
 	"homepage": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-zillow#readme",
