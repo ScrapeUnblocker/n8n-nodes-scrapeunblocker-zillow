@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-zillow.zillowScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Analytics"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-zillow#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-zillow#readme"
+			}
+		]
+	},
+	"alias": [
+		"zillow",
+		"real estate",
+		"homes for sale",
+		"rentals",
+		"property",
+		"housing",
+		"scraper",
+		"apify",
+		"scrapeunblocker"
+	]
+}
